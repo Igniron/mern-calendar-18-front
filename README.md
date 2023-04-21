@@ -1,9 +1,11 @@
 # Calendar App - Front end
 
-Frontend desarrollado con HTML, CSS y Reactjs con motivos de estudio y proyecto personal.
+App de calendario capaz de crear y alamcenar eventos creada con las herrameintas del MERN stack (Mongo db, Express, React, Node js).
 
-Frontend developed with HTML, CSS and Reactjs for study and personal project purposes.
+-----------------------------------------------------------------------------------------------------------------------------------
 
-Back: https://github.com/Igniron/mern-calendar-18-back
+Calendar app capable of creating and storing events created with the MERN stack tools (Mongo db, Express, React, Node js).
+
+Back-end: https://github.com/Igniron/mern-calendar-18-back
 
 URL:
